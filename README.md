@@ -21,12 +21,12 @@
 - 3시간씩, 총 4회
 - 세부 날짜
   - 11월 30일 목요일 오후 7시 ~ 10시
-    - Angular 란
-    - Angular 의 주요 사상 : DI, AOT...
-    - 개발 도구 설치와 개발 환경 구축
-    - Angular CLI 정복하기
-    - Tutorial 따라잡기
-  - 12월 7일 목요일 오후 7시 ~ 10시
+    - Angular 란
+    - Angular 의 주요 사상 : DI, AOT...
+    - 개발 도구 설치와 개발 환경 구축
+    - Angular CLI 정복하기
+    - Tutorial 따라잡기
+  - 12월 7일 목요일 오후 7시 ~ 10시
     - Module
     - Component
     - Template
